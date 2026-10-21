@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(19, 160, 14);
+}
+
+#first-paragraph{
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.basic-paragraph{
+    color: brown;
+    font-family: sans-serif;
+}
